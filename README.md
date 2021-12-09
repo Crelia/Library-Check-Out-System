@@ -1,4 +1,4 @@
-# CSCE1040-Homework1
+# Baby's First OOP
 
 This program is my first attempt at an object oriented program.
 The program is meant to work as a library check out system.
